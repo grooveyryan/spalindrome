@@ -1,0 +1,22 @@
+{
+  "name": "talmadge-palindrome",
+  "version": "1.0.0",
+  "description": "inspector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grooveyryan/spalindrome.git"
+  },
+  "keywords": [
+    "spalindrome"
+  ],
+  "author": "kevin ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grooveyryan/spalindrome/issues"
+  },
+  "homepage": "https://github.com/grooveyryan/spalindrome#readme"
+}
